@@ -1,0 +1,11 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Por que depende del compilador del lenguaje ensamblador, el cual es diferente para cada SO.
+
+
+¿Qué tipo de máquina virtual es virtualBox?
+Hypervirtualizacion 2
+
+¿Si tengo más de una máquina virtual instalada, y una se rompe, ¿Esto afecta a las demás? ¿Por qué?
+
+No afeca por que se ejecutan indepenedientemente las unas de las otras.
