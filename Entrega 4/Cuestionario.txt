@@ -1,0 +1,10 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+Por que la compatibilidad con el lenguaje de programación depende del compilador de lenguaje ensamblador, el cual es diferente para cada SO.
+
+¿Qué tipo de máquina virtual es virtualBox?.
+Hypervisor 2 (Software de virtualización)
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+Aunque puedan ejecutarse en el mismo servidor, las máquinas virtuales se ejecutan de manera independiente por lo que si falla una no afecta a las demás.
